@@ -43,7 +43,7 @@
 Use the package manager to install
 
 ```bash
-yarn add @boringcodes/eslint-config-typescript @typescript-eslint/eslint-plugin eslint-config-prettier eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard eslint typescript --dev
+yarn add @boringcodes/eslint-config-typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard eslint typescript --dev
 ```
 
 ## Usage
