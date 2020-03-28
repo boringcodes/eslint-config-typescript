@@ -31,9 +31,9 @@
     regenerator-runtime "^0.13.4"
 
 "@boringcodes/eslint-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@boringcodes/eslint-config/-/eslint-config-1.0.0.tgz#1c2366b00c92a25bf6bc2ddcfd8b06cf9aee8652"
-  integrity sha512-q4HNHiwnYNAXihskDCOMIv3xasefGNi10ax11iXJlC8e4Gg1TResJ+WdDpfZJ7+mHRaYKFDgKXI6ia/IfF7tLw==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@boringcodes/eslint-config/-/eslint-config-1.1.0.tgz#df46ec56210006025eda503eac36ed838b50c8d6"
+  integrity sha512-lNbKFAgRSyPfwKtANuniCZSxCSvtFL0lFw/5Mr1VQp5vAOOH2lsjKKFOJ6orrM58Xatz5cELwX5CKa5miUc/EA==
 
 "@types/color-name@^1.1.1":
   version "1.1.1"
