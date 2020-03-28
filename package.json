@@ -1,0 +1,45 @@
+{
+  "name": "@boringcodes/eslint-config-typescript",
+  "version": "0.0.0",
+  "description": "Boring ESLint Config for TypeScript",
+  "homepage": "https://github.com/boringcodes/eslint-config-typescript",
+  "bugs": "https://github.com/boringcodes/eslint-config-typescript/issues",
+  "license": "MIT",
+  "author": "BoringCodes <hi@boringcodes.com> (https://boringcodes.com)",
+  "repository": "https://github.com/boringcodes/eslint-config-typescript.git",
+  "main": "index.js",
+  "scripts": {
+    "purge": "rm -rf node_modules",
+    "lint": "eslint --ignore-path .gitignore .",
+    "release": "standard-version --no-verify",
+    "release:major": "yarn release --release-as major",
+    "release:minor": "yarn release --release-as minor",
+    "release:patch": "yarn release --release-as patch"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.25.0",
+    "@typescript-eslint/parser": "^2.25.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "husky": "^4.2.3",
+    "standard-version": "^6.0.1",
+    "typescript": "^3.8.3"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.25.0",
+    "@typescript-eslint/parser": "^2.25.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "typescript": "^3.8.3"
+  }
+}
