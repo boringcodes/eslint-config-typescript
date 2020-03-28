@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/boringcodes/eslint-config-typescript/compare/v1.1.1...v1.1.2) (2020-03-28)
+
+
+### Bug Fixes
+
+* add @typescript-eslint/parser to dev & peer deps to resolve unmet peer dep ([c1533f1](https://github.com/boringcodes/eslint-config-typescript/commit/c1533f1))
+
+
+
 ### [1.1.1](https://github.com/boringcodes/eslint-config-typescript/compare/v1.1.0...v1.1.1) (2020-03-28)
 
 
