@@ -35,6 +35,11 @@
   resolved "https://registry.yarnpkg.com/@boringcodes/eslint-config/-/eslint-config-1.1.0.tgz#df46ec56210006025eda503eac36ed838b50c8d6"
   integrity sha512-lNbKFAgRSyPfwKtANuniCZSxCSvtFL0lFw/5Mr1VQp5vAOOH2lsjKKFOJ6orrM58Xatz5cELwX5CKa5miUc/EA==
 
+"@boringcodes/prettier-config@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@boringcodes/prettier-config/-/prettier-config-1.2.2.tgz#47336d595011930cd5aacc235e1ee5e12840fc7d"
+  integrity sha512-JaOIasT4tPGV6plBTfth1Ps1tQ54orlfTeF/TmX8EUJ2+vM9aRgnvdiTLk226y763c/zjswseUUyM2DSaqd9cw==
+
 "@samverschueren/stream-to-observable@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@samverschueren/stream-to-observable/-/stream-to-observable-0.3.0.tgz#ecdf48d532c58ea477acfcab80348424f8d0662f"
@@ -2331,6 +2336,11 @@ prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ=
+
+prettier@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.2.tgz#1ba8f3eb92231e769b7fcd7cb73ae1b6b74ade08"
+  integrity sha512-5xJQIPT8BraI7ZnaDwSbu5zLrB6vvi8hVV58yHQ+QK64qrY40dULy0HSRlQ2/2IdzeBpjhDkqdcFBnFeDEMVdg==
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
