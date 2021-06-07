@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/boringcodes/eslint-config-typescript/compare/v1.2.0...v1.2.1) (2021-06-07)
+
 ## [1.2.0](https://github.com/boringcodes/eslint-config-typescript/compare/v1.1.4...v1.2.0) (2021-01-11)
 
 ### [1.1.4](https://github.com/boringcodes/eslint-config-typescript/compare/v1.1.3...v1.1.4) (2020-03-28)
