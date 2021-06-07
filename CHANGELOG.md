@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.2](https://github.com/boringcodes/eslint-config-typescript/compare/v1.2.1...v1.2.2) (2021-06-07)
+
+### Features
+
+- **eslint:** remove prettier/\* from eslint config as included in prettier itself ([7d213d8](https://github.com/boringcodes/eslint-config-typescript/commit/7d213d85330b0a7185f26e0938c688cf439fcddf))
+
 ### [1.2.1](https://github.com/boringcodes/eslint-config-typescript/compare/v1.2.0...v1.2.1) (2021-06-07)
 
 ## [1.2.0](https://github.com/boringcodes/eslint-config-typescript/compare/v1.1.4...v1.2.0) (2021-01-11)
