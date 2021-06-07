@@ -35,8 +35,6 @@
 - [x] Standard config
 - [x] TypeScript config
 - [x] Prettier config
-- [x] Prettier - Standard conflicts removed
-- [x] Prettier - TypeScript conflicts removed
 
 ## Installation
 
